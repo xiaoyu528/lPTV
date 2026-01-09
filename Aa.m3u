@@ -1,1 +1,16 @@
 
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="Lesen Sie" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="Ankündigung",Lesen Sie
+https://liuliuliu.tv/api/channels/1997/stream
+#EXTINF:-1 tvg-id="1" tvg-name="yuanzl77.github.io" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="Ankündigung",yuanzl77.github.io
+https://liuliuliu.tv/api/channels/233/stream
+#EXTINF:-1 tvg-id="1" tvg-name="Update" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="Ankündigung", Update
+https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4
+#EXTINF:-1 tvg-id="1" tvg-name="2025-01-06" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-01-06
+https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="Central Video Channel",CCTV1
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR•IPV6『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="Central Video Channel",CCTV1
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8$LR•IPV6『线路2』
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
+http://192.168.2.1:1111/22.ts
